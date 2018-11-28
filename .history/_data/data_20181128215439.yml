@@ -43,12 +43,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a Software Engineer with 10+ years of professional experience in fast-paced agile environments.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
 
-    I'm a very adaptable professional, resilient and with hands-on experience in multiple programming languages and frameworks. I have also worked in the most diverse industries such as banking, finance, telecommunication, and online gambling with a relentless focus on delivering business value through sound software engineering methods and principles.
-    I’m an experienced agile practitioner and enthusiastic about simplicity in code but above all, a pragmatic that strives to craft simple, clean, maintainable solutions and contribute to the entire code base of an application regardless whether it is frontend or backend.
-
-    I have an MBA for Executives from Coimbra Business School, MSc in Informatics Engineering and a BSc in Informatics and Systems Engineering
+    Second paragraph if required.
 
 education:
   - degree: MSc in Computer Science
