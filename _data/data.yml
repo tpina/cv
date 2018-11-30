@@ -30,16 +30,6 @@ sidebar:
     - idiom: English
       level: Professional
 
-  interests:
-    - item: Climbing
-      link:
-
-    - item: Snowboarding
-      link:
-
-    - item: Cooking
-      link:
-
 career-profile:
   title: Career Profile
   summary: |
@@ -51,49 +41,26 @@ career-profile:
     I have an MBA for Executives from Coimbra Business School, MSc in Informatics Engineering and a BSc in Informatics and Systems Engineering
 
 education:
-  - degree: MSc in Computer Science
+  - degree: MBA for Executives
     university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+    time: Sep 2009 - Sep 2011
 
-        - Bullet point
-        - Bullet point 
+  - degree: MSc. Informatics Engineering
+    university: University of Coimbra
+    time: Sep 2007 - Sep 2009
 
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-
-        - Bullet point
-        - Bullet point 
+  - degree: BSc. Computer Science and Systems Engineering
+    university: Coimbra Institute of Engineering
+    time: Sep 2002 - Jul 2007
 
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Software Engineering Lead
+    time: May 2017 - Dec 2017
+    company: Lloyds Banking Group - London, UK
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-
-        - Bullet point
-        - Bullet point 
+      - Software Engineering oversight, technical leadership and setting the strategic direction across multiple teams.
+      - Hands-on implementation of a dashboard using ReactJS and Node JS to display technical metrics and business insights on large displays within Lloyds mobile team floor.
+      - JavaScript technical guidance.
 
   - role: Senior Software Engineer
     time: 2014 - 2015
