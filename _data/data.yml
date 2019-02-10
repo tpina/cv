@@ -95,19 +95,23 @@ experiences:
     time: Sep 2007 - Oct 2012
     company: WIT Software, Coimbra - Portugal
     details: |
-      - For details about the role consult my LinkedIn
+      - For details about the role consult my LinkedIn profile
 
   - role: Junior Engineer
     time: Feb 2007 - Jul 2007
     company: Novaxon B.V., Maastricht - The Netherlands
     details: |
-      - For details about the role consult my LinkedIn
+      - For details about the role consult my LinkedIn profile
 
 projects:
   title: Projects
   intro: >
 
   assignments:
+    - title: MarketFactory - TheSauce
+      link: "#https://thesauce.marketfactory.com/"
+      tagline: "An account management single page application for MarketFactory products."
+
     - title: ALFA Systems
       link: "#hook"
       tagline: "Asset Finance Software solution that offered end-to-end lifecycle support for portfolios, process optimisation and automation, and support for complex product and branding requirements."
