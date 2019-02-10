@@ -109,7 +109,7 @@ projects:
 
   assignments:
     - title: MarketFactory - TheSauce
-      link: "#https://thesauce.marketfactory.com/"
+      link: "https://thesauce.marketfactory.com/"
       tagline: "An account management single page application for MarketFactory products."
 
     - title: ALFA Systems
