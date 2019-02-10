@@ -113,11 +113,11 @@ projects:
       tagline: "An account management single page application for MarketFactory products."
 
     - title: ALFA Systems
-      link: "#hook"
+      link: "https://www.alfasystems.com/eu/our-product"
       tagline: "Asset Finance Software solution that offered end-to-end lifecycle support for portfolios, process optimisation and automation, and support for complex product and branding requirements."
 
     - title: Nautilus
-      link: "#"
+      link: "https://sports.sportingbet.com/en/sports"
       tagline: "White label digital betting and casino platform."
 
 # skills:
