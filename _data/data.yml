@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: tiagoaspina@gmail.com
   phone: # 07 429 432 807
-  website: tiagopina.co.uk #do not add http://
+  website: tiagopina.co.uk
   linkedin: tpina
   github: tpina
   gitlab:
@@ -42,7 +42,7 @@ career-profile:
 
 education:
   - degree: MBA for Executives
-    university: University of London
+    university: University of Coimbra
     time: Sep 2009 - Sep 2011
 
   - degree: MSc. Informatics Engineering
